@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,mysql,js,django,git,bash,docker,vscode&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,mysql,git,bash,docker,vscode&perline=10)](https://skillicons.dev)
 
 # Looking for a Junior Data Analyst position
 I'm currently a student at 42 in Le Havre.<br/> 
