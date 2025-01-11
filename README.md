@@ -9,10 +9,9 @@ Motivated, organized, and curious, I am now seeking an opportunity to apply my s
 ![Hewya's GitHub stats](https://github-readme-stats.vercel.app/api?username=hewya&show_icons=true&theme=material-palenight&hide_border=True&hide=prs,issues)
 
 <br/>
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LaTeam-Trancendence&repo=transcendence&theme=material-palenight&hide_border=True)](https://github.com/LaTeam-Trancendence/transcendence)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hewya&repo=minishell&theme=material-palenight&hide_border=True)](https://github.com/Hewya/Minishell)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hewya&repo=Cub3d&theme=material-palenight&hide_border=True)](https://github.com/Hewya/Cub3d)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hewya&repo=fractol&theme=material-palenight&hide_border=True)](https://github.com/Hewya/fractol)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hewya&repo=pipex&theme=material-palenight&hide_border=True)](https://github.com/Hewya/pipex)
 
 <br/>
