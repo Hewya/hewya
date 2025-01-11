@@ -10,10 +10,20 @@ Motivated, organized, and curious, I am now seeking an opportunity to apply my s
 
 <br/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LaTeam-Trancendence&repo=transcendence&theme=material-palenight&hide_border=True)](https://github.com/LaTeam-Trancendence/transcendence)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hewya&repo=minishell&theme=material-palenight&hide_border=True)](https://github.com/Hewya/Minishell)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hewya&repo=Cub3d&theme=material-palenight&hide_border=True)](https://github.com/Hewya/Cub3d)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hewya&repo=pipex&theme=material-palenight&hide_border=True)](https://github.com/Hewya/pipex)
+<div style="display: flex; justify-content: space-around; gap: 20px;">
+  <a href="https://github.com/LaTeam-Trancendence/transcendence">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaTeam-Trancendence&repo=transcendence&theme=material-palenight&hide_border=True" />
+  </a>
+  <a href="https://github.com/Hewya/Minishell">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hewya&repo=minishell&theme=material-palenight&hide_border=True" />
+  </a>
+  <a href="https://github.com/Hewya/Cub3d">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hewya&repo=Cub3d&theme=material-palenight&hide_border=True" />
+  </a>
+  <a href="https://github.com/Hewya/pipex">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hewya&repo=pipex&theme=material-palenight&hide_border=True" />
+  </a>
+</div>
 
 <br/>
 
