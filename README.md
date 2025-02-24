@@ -1,6 +1,6 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,docker,git,bash,vscode&perline=10)](https://skillicons.dev)
 
-# Looking for a Junior Data Analyst position
+# Looking for a DevOps internship
 I'm currently a student at 42 in Le Havre.<br/> 
 I was able to delve deeply into C and C++, as well as Python and Docker. I was also able to learn how to use Git, Grafana and Bash.<br/> 
 Motivated, organized, and curious, I am now seeking an opportunity to apply my skills and grow in a professional setting.  
